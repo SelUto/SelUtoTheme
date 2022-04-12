@@ -78,12 +78,12 @@ body {
   -webkit-box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #1e1a3d, inset 0px 0px 10px #000;
   box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #1e1a3d, inset 0px 0px 10px #000;
 
-  background: #2e3259; /* Old browsers */
+  background: #8f2df7; /* Old browsers */
   color: #fff;
 }
 
 #hideshow:hover, #savebuild:hover, #loadbuild:hover, #fillin:hover, #buildidfetch:hover {
-    background-color: #1222b7;
+    background-color: #8f2df7;
 }
 
 .munkbutton {
@@ -107,17 +107,17 @@ body {
   text-shadow: -1px 1px 2px #1e1a3d, 1px -1px 1px #1e1a3d;
 
   /* colors */
-  border-color: #6e787d;
+  border-color: #8f2df7;
   -moz-box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #1e1a3d, inset 0px 0px 10px #000;
   -webkit-box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #1e1a3d, inset 0px 0px 10px #000;
   box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #1e1a3d, inset 0px 0px 10px #000;
 
-  background: #d2381e; /* Old browsers */
+  background: #8f2df7; /* Old browsers */
   color: #dbdbdd;
 }
 
 .munkbutton:hover {
-    background-color: #fc2c07;
+    background-color: #ba90e8;
 }
 
 .max {
@@ -140,7 +140,7 @@ body {
 }
 
 .max:hover {
-    background-color: #1222b7;
+    background-color: #ba90e8;
 }
 
 #header-logo {
@@ -176,12 +176,12 @@ button {
   -webkit-box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #1e1a3d, inset 0px 0px 10px #000;
   box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #1e1a3d, inset 0px 0px 10px #000;
 
-  background: #2e3259; /* Old browsers */
+  background: #8f2df7; /* Old browsers */
   color: #fff;
 }
 
 button:hover {
-    background-color: #1222b7;
+    background-color: #ba90e8;
 }
 
 #bOriginal, #bGeneral, #bArmies, #bWar, #bTM, #bCalced, #bResources,
@@ -191,7 +191,7 @@ button:hover {
   margin: 0px;
   font-size: 12px;
   font-weight: normal;
-  background: #2e3259;
+  background: #8f2df7;
   color: #fff;
   -moz-text-shadow: -1px 1px 2px #1e1a3d, 1px -1px 2px #1e1a3d;
   -webkit-text-shadow: -1px 1px 2px #1e1a3d, 1px -1px 2px #1e1a3d;
@@ -207,7 +207,7 @@ button:hover {
 #bOriginal:hover, #bGeneral:hover, #bArmies:hover, #bWar:hover, #bTM:hover,
 #bCalced:hover, #bResources:hover,#bMilitary:hover, #bPopulation:hover,
 #bSurvey:hover, #bSoS:hover, #bSoM:hover {
-    background-color: #1222b7;
+    background-color: #ba90e8;
 }
 
 #ircchat {
@@ -234,7 +234,7 @@ button:hover {
     -moz-text-shadow: -1px 1px 2px #000, 1px -1px 2px #093462;
     -webkit-text-shadow: -1px 1px 2px #000, 1px -1px 2px #093462;
     text-shadow: -1px 1px 2px #000, 1px -1px 1px #093462;
-    filter: glow(color=#252525,strength=3);
+    filter: glow(color=#8f2df7,strength=3);
 
     /* colors */
     border-color: #555555;
@@ -242,17 +242,17 @@ button:hover {
     -webkit-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
     box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
 
-    background: #1e2332; /* Old browsers */
+    background: #8f2df7; /* Old browsers */
 }
 
 .navigation a {
     text-decoration: none;
-    color: #fff;
+    color: #8f2df7;
 }
 
 .navigation a:hover  {
     /* colors */
-    color: white;
+    color: #ba90e8;
 }
 
 
@@ -294,17 +294,17 @@ button:hover {
 
 #account-header
 {
-    color: #edf2fd;
+    color: ##8f2df7;
 }
 
 #account-header:hover
 {
-    background-color: #171717;
+    background-color: #ba90e8;
 }
 
 #account-header.selected
 {
-    background-color: #171717;
+    background-color: #ba90e8;
 }
 
 #account-details
@@ -312,7 +312,7 @@ button:hover {
     font-size: 12px;
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     line-height: 16px;
-    background-color: #171717;
+    background-color: #8f2df7;
 }
 
 #account-details .account-title
@@ -376,7 +376,7 @@ a {
 }
 
 a.highlighted {
-    color: #203593;
+    color: #ba90e8;
 }
 
 a.info-link {
@@ -386,7 +386,7 @@ a.info-link {
 
 a:focus,
 a:hover {
-    color: #fff;
+    color: #ba90e8;
 }
 
 h1,
@@ -426,12 +426,12 @@ h3 {
 
 .report-this:hover {
     color: #c4a112;
-    background-color: #2a201d;
+    background-color: #ba90e8;
 }
 
 .reported-content {
     border: 2px inset #616161;
-    background-color: #000000;
+    background-color: #ba90e8;
 }
 
 #overlay
@@ -476,11 +476,11 @@ h3 {
 .lobby-panel h1 {
     font-size: 40px;
     line-height: 40px;
-    color: #EBE8CD;
+    color: #ba90e8;
 }
 
 .lobby-panel h1 a:hover {
-    color: #fff;
+    color: #ba90e8;
 }
 
 .divider {
@@ -626,11 +626,11 @@ h3 {
 }
 
 .advice-message {
-    color: #a5d387;
+    color: #ba90e8;
 }
 
 .warning {
-    color: #e55700;
+    color: #ba90e8;
 }
 
 .error {
@@ -657,7 +657,7 @@ h3 {
     -webkit-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
     box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
 
-    background: #404040; /* Old browsers */
+    background: #8f2df7; /* Old browsers */
 }
 
 #game-navigation a {
@@ -665,7 +665,7 @@ h3 {
 }
 
 #game-navigation a:hover {
-    box-shadow: -10px 0px 6px -6px #fff;
+    box-shadow: -10px 0px 6px -6px #ba90e8;
 
 }
 
@@ -685,7 +685,7 @@ h3 {
 
 
     /* colors */
-    border-color: #555555;
+    border-color: #8f2df7;
     -moz-box-shadow:    0px -1px 1px #fffbf1,
                                     inset 0px 1px 2px #000,
                                     inset 0px -1px 1px #fffbf1,
@@ -711,7 +711,7 @@ h3 {
                                 inset -1px 0px 2px #000,
                                 1px 0px 1px #fffbf1;
 
-    background: #1e2332; /* Old browsers */
+    background: #8f2df7; /* Old browsers */
 }
 
 #resource-bar thead {
